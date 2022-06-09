@@ -1,0 +1,21 @@
+{
+  "name": "bip32-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^3.0.1",
+    "bip32-utils": "^0.11.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^3.3.2",
+    "crypto": "^1.0.1",
+    "nodemon": "^2.0.15",
+    "nvm": "0.0.4"
+  }
+}
